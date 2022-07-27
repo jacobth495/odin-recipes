@@ -5,6 +5,19 @@ html {
 body {
   text-align: center;
 }
+
 img {
   width: 500px;
+}
+.list {
+  text-align: left;
+}
+h1 {
+  font-size: xx-large;
+}
+h2 {
+  font-size: larger;
+}
+h3 {
+  font-size: large;
 }
